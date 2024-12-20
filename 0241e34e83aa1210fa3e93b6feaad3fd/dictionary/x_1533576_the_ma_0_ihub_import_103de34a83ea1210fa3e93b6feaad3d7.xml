@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="149d274e83ea1210fa3e93b6feaad3e5" extends="sys_import_set_row" label="Sales Data Mapping" max_length="40" name="x_1533576_the_ma_0_ihub_import_103de34a83ea1210fa3e93b6feaad3d7" type="collection">
+        <element attributes="import_attribute_name=#" label="#" max_length="40" name="u__" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L" label="L" max_length="40" name="u_l" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=J" label="J" max_length="40" name="u_j" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Value" label="Total Value" max_length="40" name="u_total_value" type="string"/>
+        <element attributes="import_attribute_name=Units" label="Units" max_length="40" name="u_units" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Price/Unit ($)" label="Price/Unit ($)" max_length="40" name="u_price_unit____" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item Code" label="Item Code" max_length="40" name="u_item_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item Name" label="Item Name" max_length="40" name="u_item_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Devotte Name" label="Devotte Name" max_length="40" name="u_devotte_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=K" label="K" max_length="40" name="u_k" type="string"/>
+    </element>
+</database>

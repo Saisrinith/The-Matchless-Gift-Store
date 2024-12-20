@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
+        <navigation_tab display_value="sukha (सुख)">e5cbff8e832e1210fa3e93b6feaad364</navigation_tab>
+        <order>260</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 06:43:40</sys_created_on>
+        <sys_id>a5cbff8e832e1210fa3e93b6feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_a5cbff8e832e1210fa3e93b6feaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 06:43:40</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

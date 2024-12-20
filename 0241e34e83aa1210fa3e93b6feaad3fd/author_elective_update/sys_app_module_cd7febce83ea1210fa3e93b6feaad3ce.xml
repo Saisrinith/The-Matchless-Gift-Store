@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>The Ma 0 1734673787531</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1533576_the_ma_0_1734673787531</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:49:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd7febce83ea1210fa3e93b6feaad3ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The Ma 0 1734673787531</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope>
+        <sys_update_name>sys_app_module_cd7febce83ea1210fa3e93b6feaad3ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:49:51</sys_updated_on>
+        <timeline_page/>
+        <title>The Ma 0 1734673787531</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</application>
+        <file_path/>
+        <instance_id>a82292df3be3ca14c55a348aa4e45ae6</instance_id>
+        <instance_name>dev280669</instance_name>
+        <name>sys_app_module_cd7febce83ea1210fa3e93b6feaad3ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>The Ma 0 1734673787531</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1533576_the_ma_0_1734673787531</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-20 05:49:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd7febce83ea1210fa3e93b6feaad3ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>The Ma 0 1734673787531</sys_name><sys_overrides/><sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package><sys_policy/><sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope><sys_update_name>sys_app_module_cd7febce83ea1210fa3e93b6feaad3ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-20 05:49:51</sys_updated_on><timeline_page/><title>The Ma 0 1734673787531</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-254284714</payload_hash>
+        <record_name>The Ma 0 1734673787531</record_name>
+        <reverted_from/>
+        <source>8241274e83aa1210fa3e93b6feaad302</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:49:51</sys_created_on>
+        <sys_id>497febce83ea1210fa3e93b6feaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e29d7b8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:49:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4d7febce9aea1210c0081c8a32b5dbd0</update_guid>
+        <update_guid_history>4d7febce9aea1210c0081c8a32b5dbd0:-254284714</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="The Ma 0 1734673787531">cccfe302832e1210fa3e93b6feaad310</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:51:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2fba35ca4b1042a18da69437d20cd0d1</sys_id>
+        <sys_metadata>cd7febce83ea1210fa3e93b6feaad3ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The Ma 0 1734673787531</sys_name>
+        <sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope>
+        <sys_scope_delete display_value="">2ee7b42c79f149d196eab81c740a3e71</sys_scope_delete>
+        <sys_update_name>sys_app_module_cd7febce83ea1210fa3e93b6feaad3ce</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cd7febce83ea1210fa3e93b6feaad3ce">497febce83ea1210fa3e93b6feaad3d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:51:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

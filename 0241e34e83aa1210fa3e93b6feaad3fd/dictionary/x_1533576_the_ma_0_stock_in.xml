@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9bd3670283ea1210fa3e93b6feaad38f" label="Stock-In&#9;&#9;&#9;&#9;&#9;&#9;" max_length="40" name="x_1533576_the_ma_0_stock_in" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="omit_sys_original=true" label="Total Value" max_length="20" name="total_value" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Code" max_length="40" name="item_code" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price/Unit ($)" max_length="20" name="price_unit" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Name" max_length="40" name="item_name" type="string"/>
+        <element label="Units" max_length="40" name="units" type="integer"/>
+        <element label="S_No" max_length="40" name="s_no" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

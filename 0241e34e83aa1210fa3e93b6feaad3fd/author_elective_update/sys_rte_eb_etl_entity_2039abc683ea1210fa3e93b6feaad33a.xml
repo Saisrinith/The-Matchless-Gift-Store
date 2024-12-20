@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>IHUB_TARGET_TEMP_x_1533576_the_ma_0_opening_stock</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>Temp_x_1533576_the_ma_0_opening_stock</path>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:22:31</sys_created_on>
+        <sys_id>2039abc683ea1210fa3e93b6feaad33a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_1533576_the_ma_0_opening_stock</sys_name>
+        <sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Opening Stock Data Mapping_etl_ihub">183927c683ea1210fa3e93b6feaad300</sys_rte_eb_definition>
+        <sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_2039abc683ea1210fa3e93b6feaad33a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:22:31</sys_updated_on>
+        <table/>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</application>
+        <file_path/>
+        <instance_id>a82292df3be3ca14c55a348aa4e45ae6</instance_id>
+        <instance_name>dev280669</instance_name>
+        <name>sys_rte_eb_etl_entity_2039abc683ea1210fa3e93b6feaad33a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>IHUB_TARGET_TEMP_x_1533576_the_ma_0_opening_stock</name><parent_entity/><parent_id_field/><path>Temp_x_1533576_the_ma_0_opening_stock</path><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-20 05:22:31</sys_created_on><sys_id>2039abc683ea1210fa3e93b6feaad33a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IHUB_TARGET_TEMP_x_1533576_the_ma_0_opening_stock</sys_name><sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package><sys_policy/><sys_rte_eb_definition display_value="Opening Stock Data Mapping_etl_ihub">183927c683ea1210fa3e93b6feaad300</sys_rte_eb_definition><sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope><sys_update_name>sys_rte_eb_etl_entity_2039abc683ea1210fa3e93b6feaad33a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-20 05:22:31</sys_updated_on><table/></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>194789756</payload_hash>
+        <record_name>IHUB_TARGET_TEMP_x_1533576_the_ma_0_opening_stock</record_name>
+        <reverted_from/>
+        <source>8241274e83aa1210fa3e93b6feaad302</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:22:31</sys_created_on>
+        <sys_id>ec39abc683ea1210fa3e93b6feaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e28473c80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:22:31</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>e039abc685ea12106f049338bb491c3b</update_guid>
+        <update_guid_history>e039abc685ea12106f049338bb491c3b:194789756</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:25:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>997e965f3dd747a898946388ba1a7379</sys_id>
+        <sys_metadata>2039abc683ea1210fa3e93b6feaad33a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_1533576_the_ma_0_opening_stock</sys_name>
+        <sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope>
+        <sys_scope_delete display_value="">2ee7b42c79f149d196eab81c740a3e71</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_2039abc683ea1210fa3e93b6feaad33a</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_2039abc683ea1210fa3e93b6feaad33a">ec39abc683ea1210fa3e93b6feaad33b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:25:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

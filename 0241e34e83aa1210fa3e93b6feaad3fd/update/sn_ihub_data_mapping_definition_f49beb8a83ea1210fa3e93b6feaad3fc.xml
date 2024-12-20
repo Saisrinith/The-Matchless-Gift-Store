@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FD789beb8a61ea12106633dfc5a68f20fb">3c9beb8a83ea1210fa3e93b6feaad3fb</published_source_structure>
+        <record_id>dc9b6b8683ea1210fa3e93b6feaad3e0</record_id>
+        <source_structure display_value="ih_import_FD789beb8a61ea12106633dfc5a68f20fb">3c9beb8a83ea1210fa3e93b6feaad3fb</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 05:32:55</sys_created_on>
+        <sys_id>f49beb8a83ea1210fa3e93b6feaad3fc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="The Matchless Gift" source="x_1533576_the_ma_0">0241e34e83aa1210fa3e93b6feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="The Matchless Gift">0241e34e83aa1210fa3e93b6feaad3fd</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_f49beb8a83ea1210fa3e93b6feaad3fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 05:32:56</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>
